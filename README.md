@@ -1,0 +1,2 @@
+# WeekendWeekday
+First EJS Project 
